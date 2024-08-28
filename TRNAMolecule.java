@@ -72,7 +72,7 @@ public class TRNAMolecule {
 	 * String representation of this tRNA
 	 * Does not actually get used in Main since it would prevent illustration of the full amino acid chain
 	 * @param numSpacesBefore The desired number of spaces to be printed in front of each line of this string representation
-	 * @return
+	 * @return String representation of tRNA molecule
 	 */
 	public String toString(int numSpacesBefore) {
 		
